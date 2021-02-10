@@ -1,5 +1,5 @@
 ---
-description: foundation of the project. initial inhalation.
+description: 'foundation, base.'
 ---
 
 # ground
